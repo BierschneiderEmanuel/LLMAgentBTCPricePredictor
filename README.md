@@ -1,6 +1,6 @@
 # LLMAgentBTCPricePredictor
 CrewAI LLM agents with a custom Langchain duckduckgo search tool, conducts a financial writeup about the Bitcoin dollar price after the Bitcoin halving.
-The BTC predictor utilizes three agents to write a financial writeup about the Bitcoin dollar price after the Bitcoin halving.
+The BTC predictor utilizes three agents to conduct a financial writeup about the Bitcoin dollar price after the Bitcoin halving.
 These agents are grouped into a crewAI crew, and each agent has access to a specific toolset and represents a distinguished role within the crew.
 The crewAI framework orchestrates the tasks of the agents in a sequential manner.
 The roles applicable to this project are: Journalist, Researcher and Writer.
