@@ -8,7 +8,8 @@ At first journalist with the exclusive access to wikipedia defines BTC in genera
 The Researcher investigates the topic of Bitcoin halving, providing a bullet list summarizing the most important financial aspects by searching through news articles on Yahoo Financial News 
 and by scraping the web using a customized langchain DuckDuckGo search tool.
 Finally the LLM agent Writer, with access to the same toolset as the Journalist, provides the final financial writeup, including the predicted BTC price in dollars.
-![p9_0](https://github.com/BierschneiderEmanuel/LLMAgentBTCPricePredictor/assets/77926785/7af8b2dc-e8d5-4934-ae73-2a0482a399f5)
+![p9_0](https://github.com/BierschneiderEmanuel/LLMAgentBTCPricePredictor/assets/77926785/cd3ff781-225a-4959-8cc9-cdc97fe99831)
+![p9_1](https://github.com/BierschneiderEmanuel/LLMAgentBTCPricePredictor/assets/77926785/36c83450-fba6-4186-89ed-e7af93701296)
 
 To run the BTC price predictor, the Windows linux virtualization environment and the Ollama model please refer to the following steps:<br>
 Win-R <br>
