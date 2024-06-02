@@ -9,10 +9,10 @@ The Researcher investigates the topic of Bitcoin halving, providing a bullet lis
 and by scraping the web using a customized langchain DuckDuckGo search tool.
 Finally the LLM agent Writer, with access to the same toolset as the Journalist, provides the final financial writeup, including the predicted BTC price in dollar.<br>
 <p align="center">
-![p9_0](https://github.com/BierschneiderEmanuel/LLMAgentBTCPricePredictor/assets/77926785/cd3ff781-225a-4959-8cc9-cdc97fe99831)
+   <img src="https://github.com/BierschneiderEmanuel/LLMAgentBTCPricePredictor/blob/16fea7f7d9887002ad8fcfa9883a61c81144614b/p9_0.jpg" alt="p9_2">
 </p>
 <p align="center">
-![p9_1](https://github.com/BierschneiderEmanuel/LLMAgentBTCPricePredictor/assets/77926785/36c83450-fba6-4186-89ed-e7af93701296)
+   <img src="https://github.com/BierschneiderEmanuel/LLMAgentBTCPricePredictor/blob/16fea7f7d9887002ad8fcfa9883a61c81144614b/p9_1.JPG" alt="p9_1">
 </p>
 To run the BTC price predictor, the Windows linux virtualization environment and the Ollama model please refer to the following steps:<br>
 Win-R <br>
